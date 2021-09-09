@@ -1,0 +1,25 @@
+// Document Object Model
+
+//Netscape Navigator 2 e IE 3.0(1996)
+// Javascript
+// Microsoft JScript => VBScript
+// ECMAScript
+
+html => pagina
+
+h1 = cabeçalhos/Titulos
+p = parágrafos
+ul = Agrupadores de listas
+li  = os itens de lists do elemento Ul
+a = link
+form = formulários 
+input do tipo de texto  = campos de texto
+input do tipo check = checkbox
+input do tipo radio = botões de radio
+textares = parágrafos
+button = botões
+span = elementros genericos
+tables = tabelas
+tds = colunas
+divs = divisoes
+labels  = textos
